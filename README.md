@@ -18,7 +18,8 @@ My report below outlines the results from both my analysis, and compares the res
 
 Please see below for the district summary, **before** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="937" alt="Screen Shot 2021-05-30 at 3 30 55 PM" src="https://user-images.githubusercontent.com/46773181/120122167-0a5dbf00-c15c-11eb-8e0d-e07bf9be2048.png">
+<img width="924" alt="Screen Shot 2021-05-30 at 3 33 52 PM" src="https://user-images.githubusercontent.com/46773181/120122245-81935300-c15c-11eb-8551-4ab0d9eea704.png">
+
 
 Please see below for the district summary, **after** we addressed the issues with Thomas High School 9th Grade:
 
