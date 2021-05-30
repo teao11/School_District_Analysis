@@ -79,6 +79,15 @@ Similar to the prior paragraph, removing the math scores and segmenting by grade
 
 #### 5) How does replacing the ninth-grade scores affect the following: Scores by school spending
 
+Please see below for the score summary by school spending, **before** we addressed the issues with Thomas High School 9th Grade:
+
+<img width="749" alt="Screen Shot 2021-05-30 at 4 23 41 PM" src="https://user-images.githubusercontent.com/46773181/120123391-7bed3b80-c163-11eb-8386-18f5ca3d5d3d.png">
+
+Please see below for the score summary by school spending, **after** we addressed the issues with Thomas High School 9th Grade:
+
+<img width="710" alt="Screen Shot 2021-05-30 at 4 24 56 PM" src="https://user-images.githubusercontent.com/46773181/120123411-945d5600-c163-11eb-82ca-9f52caf1d6ff.png">
+
+
 
 #### 6) How does replacing the ninth-grade scores affect the following: Scores by school size
 
