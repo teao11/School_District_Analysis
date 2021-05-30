@@ -26,6 +26,8 @@ Please see below for the district summary, **after** we addressed the issues wit
 
 As we see above, the overall district was not terribly affected by the data issue. This could be due to the fact that the Thomas High School 9th grade makes up a very small % of the overall district population, and that there were few outliers within the 9th grade population that would cause the average to be shifted.
 
+_Please note: We had rounded our % to contain no decimal points in our coursework, and the dataframe columns were slightly different in terms of column order. I have made the challenge dataframes consistent with this format, for ease of comparison._
+
 #### 2) How is the school summary affected
 
 
