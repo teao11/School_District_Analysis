@@ -74,8 +74,7 @@ Please see below for the math summary by grade, **before** we addressed the issu
 
 Please see below for the math summary by grade, **after** we addressed the issues with Thomas High School 9th Grade:
 
-![Uploading Screen Shot 2021-05-30 at 4.15.44 PM.png…]()
-
+<img width="458" alt="Screen Shot 2021-05-30 at 4 15 04 PM" src="https://user-images.githubusercontent.com/46773181/120123306-e6ea4280-c162-11eb-9edf-0c21a30c4968.png">
 
 #### 5) How does replacing the ninth-grade scores affect the following: Scores by school spending
 
