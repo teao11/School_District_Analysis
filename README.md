@@ -16,6 +16,8 @@ My report below outlines the results from both my analysis, and compares the res
 
 #### 1) How is the district summary affected
 
+_Please note: We had rounded our % to contain no decimal points in our coursework, and the dataframe columns were slightly different in terms of column order. I have made the challenge dataframes consistent with this format, for ease of comparison._
+
 Please see below for the district summary, **before** we addressed the issues with Thomas High School 9th Grade:
 
 <img width="924" alt="Screen Shot 2021-05-30 at 3 37 38 PM" src="https://user-images.githubusercontent.com/46773181/120122325-fd8d9b00-c15c-11eb-9d17-7192358161f9.png">
@@ -26,9 +28,15 @@ Please see below for the district summary, **after** we addressed the issues wit
 
 As we see above, the overall district was not terribly affected by the data issue. This could be due to the fact that the Thomas High School 9th grade makes up a very small % of the overall district population, and that there were few outliers within the 9th grade population that would cause the average to be shifted.
 
-_Please note: We had rounded our % to contain no decimal points in our coursework, and the dataframe columns were slightly different in terms of column order. I have made the challenge dataframes consistent with this format, for ease of comparison._
-
 #### 2) How is the school summary affected
+
+Please see below for the school summary, **before** we addressed the issues with Thomas High School 9th Grade:
+
+<img width="890" alt="Screen Shot 2021-05-30 at 3 44 56 PM" src="https://user-images.githubusercontent.com/46773181/120122546-5578d180-c15e-11eb-9e96-bc40ecc5bcc3.png">
+
+Please see below for the district summary, **after** we addressed the issues with Thomas High School 9th Grade:
+
+<img width="890" alt="Screen Shot 2021-05-30 at 3 47 52 PM" src="https://user-images.githubusercontent.com/46773181/120122565-66294780-c15e-11eb-8b7b-4d1cab2b02e6.png">
 
 
 #### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
