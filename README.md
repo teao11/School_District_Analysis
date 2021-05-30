@@ -24,6 +24,7 @@ Please see below for the district summary, **after** we addressed the issues wit
 
 <img width="924" alt="Screen Shot 2021-05-30 at 3 32 36 PM" src="https://user-images.githubusercontent.com/46773181/120122219-57419580-c15c-11eb-93f8-922e0f0ba307.png">
 
+As we see above, the overall district was not terribly affected by the data issue. This could be due to the fact that the Thomas High School 9th grade makes up a very small % of the overall district population, and that there were few outliers within the 9th grade population that would cause the average to be shifted.
 
 #### 2) How is the school summary affected
 
