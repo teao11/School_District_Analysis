@@ -36,7 +36,7 @@ Please see below for the school summary, **before** we addressed the issues with
 
 Please see below for the district summary, **after** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="890" alt="Screen Shot 2021-05-30 at 3 47 52 PM" src="https://user-images.githubusercontent.com/46773181/120122565-66294780-c15e-11eb-8b7b-4d1cab2b02e6.png">
+<img width="890" alt="Screen Shot 2021-05-30 at 3 50 40 PM" src="https://user-images.githubusercontent.com/46773181/120122633-d59f3700-c15e-11eb-9e11-27b139b24774.png">
 
 
 #### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
