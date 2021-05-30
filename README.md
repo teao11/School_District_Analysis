@@ -106,9 +106,9 @@ Please see below for the score summary by school size, **after** we addressed th
 
 <img width="677" alt="Screen Shot 2021-05-30 at 4 52 58 PM" src="https://user-images.githubusercontent.com/46773181/120124109-801b5800-c167-11eb-81b8-cd3e0951583e.png">
 
-Understanding that Thomas High School falls into the Medium (1000-2000) segment, we would only see change when comparing these two buckets.
+Understanding that Thomas High School falls into the Medium (1000-2000) segment, we would only see change when comparing these two buckets. Again, there is very little to no change here.
 
-
+This can be explained due to the size of the 9th Grade Class at Thomas High School (~450) representing an insignificant portion of the overall Medium (1000-2000) segment. Again, this suggests that The 9th Grade Class at Thomas High School was very consistent with the overall average scores within this Medium (1000-2000) segment.
 
 #### 7) How does replacing the ninth-grade scores affect the following: Scores by school type
 
