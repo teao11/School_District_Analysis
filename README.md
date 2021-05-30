@@ -38,6 +38,9 @@ Please see below for the district summary, **after** we addressed the issues wit
 
 <img width="890" alt="Screen Shot 2021-05-30 at 3 50 40 PM" src="https://user-images.githubusercontent.com/46773181/120122633-d59f3700-c15e-11eb-9e11-27b139b24774.png">
 
+As this analysis segments by school, there is absolutely no change between the rows, except for the row containing Thomas High School.
+
+
 
 #### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
