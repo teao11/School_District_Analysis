@@ -75,7 +75,12 @@ Please see below for the math summary by grade, **after** we addressed the issue
 
 <img width="458" alt="Screen Shot 2021-05-30 at 4 15 04 PM" src="https://user-images.githubusercontent.com/46773181/120123306-e6ea4280-c162-11eb-9edf-0c21a30c4968.png">
 
-Similar to the prior paragraph, removing the math scores and segmenting by grade ensures that only the 9th grade scores will be affected! The 9th Grade scores for Thomas High School have been listed as NaN as requested!
+Similar to the prior paragraph, removing the math scores and segmenting by grade ensures that only the Thomas High School grade scores will be affected! The 9th Grade scores for Thomas High School have been listed as NaN as requested.
+
+Removing the 9th grade population from the denominator and grouping by school name has shifted the other Thomas High School grades up very slightly:
+* 10th Grade: 83.1 to 84.3
+* 11th Grade: 83.5 to 83.6
+* 12th Grade: 83.5 to 83.8 
 
 #### 5) How does replacing the ninth-grade scores affect the following: Scores by school spending
 
@@ -99,7 +104,7 @@ Please see below for the score summary by school size, **before** we addressed t
 
 Please see below for the score summary by school size, **after** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="677" alt="Screen Shot 2021-05-30 at 4 33 04 PM" src="https://user-images.githubusercontent.com/46773181/120123616-b6a3a380-c164-11eb-945e-415292761ffb.png">
+<img width="677" alt="Screen Shot 2021-05-30 at 4 52 58 PM" src="https://user-images.githubusercontent.com/46773181/120124109-801b5800-c167-11eb-81b8-cd3e0951583e.png">
 
 Understanding that Thomas High School falls into the Medium (1000-2000) segment, we would only see change when comparing these two buckets.
 
