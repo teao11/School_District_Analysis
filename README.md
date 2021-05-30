@@ -65,8 +65,7 @@ Please see below for the reading summary by grade, **after** we addressed the is
 
 <img width="456" alt="Screen Shot 2021-05-30 at 4 15 04 PM" src="https://user-images.githubusercontent.com/46773181/120123176-3c721f80-c162-11eb-815e-e7ec3322f01c.png">
 
-
-[ write comparison here ]
+As we can see above, removing the 9th grade scores from Thomas High School will only affect the 9th grade segment here. Thomas High School 9th Grade scores have been replaced with NaN, as requested!
 
 Please see below for the math summary by grade, **before** we addressed the issues with Thomas High School 9th Grade:
 
@@ -75,6 +74,8 @@ Please see below for the math summary by grade, **before** we addressed the issu
 Please see below for the math summary by grade, **after** we addressed the issues with Thomas High School 9th Grade:
 
 <img width="458" alt="Screen Shot 2021-05-30 at 4 15 04 PM" src="https://user-images.githubusercontent.com/46773181/120123306-e6ea4280-c162-11eb-9edf-0c21a30c4968.png">
+
+Similar to the prior paragraph, removing the math scores and segmenting by grade ensures that only the 9th grade scores will be affected! The 9th Grade scores for Thomas High School have been listed as NaN as requested!
 
 #### 5) How does replacing the ninth-grade scores affect the following: Scores by school spending
 
