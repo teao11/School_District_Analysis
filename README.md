@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-<h2>Overview of the school district analysis:</h2>
+## Overview of the school district analysis:
 
 <p>
 The purpose of this analysis was to allow us to utilize the Pandas / Jupyter Notebook skills we had learnt throughout the Module 4 coursework in a real-life scenario.
@@ -12,27 +12,35 @@ We first created an analysis based on complete data from the district, throughou
 My report below outlines the results from both my analysis, and compares the results (pre and post data cleanup) for the board.
 </p>
 
-<h2>Results</h2>
+## Results
 
-<h4>How is the district summary affected</h4>
+#### 1) How is the district summary affected
 
+Please see below for the district summary, **before** we addressed the issues with Thomas High School 9th Grade:
 
-<h4>How is the school summary affected</h4>
+<img width="937" alt="Screen Shot 2021-05-30 at 3 30 55 PM" src="https://user-images.githubusercontent.com/46773181/120122167-0a5dbf00-c15c-11eb-8e0d-e07bf9be2048.png">
 
+Please see below for the district summary, **after** we addressed the issues with Thomas High School 9th Grade:
 
-<h4>How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?</h4>
-
-
-<h4>How does replacing the ninth-grade scores affect the following: **Math and reading scores by grade**</h4>
-
-
-<h4>How does replacing the ninth-grade scores affect the following: **Scores by school spending**</h4>
+<img width="943" alt="Screen Shot 2021-05-30 at 3 31 31 PM" src="https://user-images.githubusercontent.com/46773181/120122180-1d708f00-c15c-11eb-943d-8780b41e5c78.png">
 
 
-<h4>How does replacing the ninth-grade scores affect the following: **Scores by school size**</h4>
+#### 2) How is the school summary affected
 
 
-<h4>How does replacing the ninth-grade scores affect the following: **Scores by school type**</h4>
+#### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 
-<h2>Summary</h2>
+#### 4) How does replacing the ninth-grade scores affect the following: Math and reading scores by grade
+
+
+#### 5) How does replacing the ninth-grade scores affect the following: Scores by school spending
+
+
+#### 6) How does replacing the ninth-grade scores affect the following: Scores by school size
+
+
+#### 7) How does replacing the ninth-grade scores affect the following: Scores by school type
+
+
+## Summary
