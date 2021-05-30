@@ -22,7 +22,7 @@ Please see below for the district summary, **before** we addressed the issues wi
 
 Please see below for the district summary, **after** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="943" alt="Screen Shot 2021-05-30 at 3 31 31 PM" src="https://user-images.githubusercontent.com/46773181/120122180-1d708f00-c15c-11eb-943d-8780b41e5c78.png">
+<img width="924" alt="Screen Shot 2021-05-30 at 3 32 36 PM" src="https://user-images.githubusercontent.com/46773181/120122219-57419580-c15c-11eb-93f8-922e0f0ba307.png">
 
 
 #### 2) How is the school summary affected
