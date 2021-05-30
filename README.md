@@ -2,16 +2,37 @@
 
 <h2>Overview of the school district analysis:</h2>
 
-<p>The purpose of this analysis was to allow us to utilize the Pandas / Jupyter Notebook skills we had learnt throughout the Module 4 coursework in a real-life scenario.
-  
+<p>
+The purpose of this analysis was to allow us to utilize the Pandas / Jupyter Notebook skills we had learnt throughout the Module 4 coursework in a real-life scenario.
+
 In this challenge, we were tasked with helping Maria prepare summary statistics for the district education board. These statistics that we produced would then be used to drive budgeting decisions for the next fiscal period.
 
 We first created an analysis based on complete data from the district, throughout the module coursework. However, Maria and the board were notified that there were data integrity issues with a small population within the data we were provided. These issues affected our results, and so we had to reconstruct the analysis after addressing the issues found with the 9th grade class at Thomas High School.
-  
+
 My report below outlines the results from both my analysis, and compares the results (pre and post data cleanup) for the board.
 </p>
 
 <h2>Results</h2>
+
+<h4>How is the district summary affected</h4>
+
+
+<h4>How is the school summary affected</h4>
+
+
+<h4>How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?</h4>
+
+
+<h4>How does replacing the ninth-grade scores affect the following: **Math and reading scores by grade**</h4>
+
+
+<h4>How does replacing the ninth-grade scores affect the following: **Scores by school spending**</h4>
+
+
+<h4>How does replacing the ninth-grade scores affect the following: **Scores by school size**</h4>
+
+
+<h4>How does replacing the ninth-grade scores affect the following: **Scores by school type**</h4>
 
 
 <h2>Summary</h2>
