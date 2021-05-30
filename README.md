@@ -40,12 +40,40 @@ Please see below for the district summary, **after** we addressed the issues wit
 
 As this analysis segments by school, there is absolutely no change between the rows, except for the row containing Thomas High School.
 
+For Thomas High School, we see the following changes:
+* Average Math Score: 83.4 to 83.3
+* Average Reading Score: 83.8 to 83.9
+* % Passing Math: 93.3 to 93.2
+* % Passing Reading: 97.3 to 97.0
+* Overall Passing %: 90.9 to 90.6
 
+Overall, we saw very little shift in the statistics here. This suggests that the 9th grade class results were relatively in line with the overall Thomas High School results.
 
 #### 3) How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+As we saw in the previous section, the overall passing percentage from Thomas High School fell slightly when we replaced the ninth graders' math and reading scores. The school still performs at a very high standard, and maintains its' second place standing in terms of overall passing percentage vs. other schools in the district.
+
+In terms of **% passing reading**, replacing the ninth graders' results drops it below Griffin High School in terms of performance. When we look at **% passing math**, Thomas High School changes very little when comparing to other schools.
 
 #### 4) How does replacing the ninth-grade scores affect the following: Math and reading scores by grade
+
+Please see below for the reading summary by grade, **before** we addressed the issues with Thomas High School 9th Grade:
+
+<img width="456" alt="Screen Shot 2021-05-30 at 4 10 01 PM" src="https://user-images.githubusercontent.com/46773181/120123025-7ee72c80-c161-11eb-9a62-49df17cb9186.png">
+
+Please see below for the reading summary by grade, **after** we addressed the issues with Thomas High School 9th Grade:
+
+<img width="269" alt="Screen Shot 2021-05-30 at 4 10 33 PM" src="https://user-images.githubusercontent.com/46773181/120123047-92929300-c161-11eb-80ba-06caca4f32ef.png">
+
+[ write comparison here ]
+
+Please see below for the math summary by grade, **before** we addressed the issues with Thomas High School 9th Grade:
+
+<img width="467" alt="Screen Shot 2021-05-30 at 4 11 57 PM" src="https://user-images.githubusercontent.com/46773181/120123092-c372c800-c161-11eb-83af-68586657414f.png">
+
+Please see below for the math summary by grade, **after** we addressed the issues with Thomas High School 9th Grade:
+
+<img width="268" alt="Screen Shot 2021-05-30 at 4 12 22 PM" src="https://user-images.githubusercontent.com/46773181/120123103-d1c0e400-c161-11eb-985d-3eebcae858be.png">
 
 
 #### 5) How does replacing the ninth-grade scores affect the following: Scores by school spending
