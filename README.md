@@ -87,9 +87,12 @@ Please see below for the score summary by school spending, **after** we addresse
 
 <img width="710" alt="Screen Shot 2021-05-30 at 4 24 56 PM" src="https://user-images.githubusercontent.com/46773181/120123411-945d5600-c163-11eb-82ca-9f52caf1d6ff.png">
 
+By looking at the school summary dataframe above, we see that Thomas High School falls into the $630-644 bucket, and changing the scores for the Thomas High School 9th Graders' should only affect this bucket. When comparing the two dataframes, we see that there was very insignificant to no change here.
 
+This makes sense, as this bucket also contains 3 other schools that are far larger (2000+ students). Consequently, the 9th Grade Class at Thomas High School represents a very small portion of the $630-644 bucket and was unlikely to change the score summary for this bracket, unless the 9th grade class contained significant outliers.
 
 #### 6) How does replacing the ninth-grade scores affect the following: Scores by school size
+
 
 
 #### 7) How does replacing the ninth-grade scores affect the following: Scores by school type
