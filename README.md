@@ -93,6 +93,16 @@ This makes sense, as this bucket also contains 3 other schools that are far larg
 
 #### 6) How does replacing the ninth-grade scores affect the following: Scores by school size
 
+Please see below for the score summary by school size, **before** we addressed the issues with Thomas High School 9th Grade:
+
+<img width="677" alt="Screen Shot 2021-05-30 at 4 32 40 PM" src="https://user-images.githubusercontent.com/46773181/120123608-a8ee1e00-c164-11eb-949c-550eb959dac9.png">
+
+Please see below for the score summary by school size, **after** we addressed the issues with Thomas High School 9th Grade:
+
+<img width="677" alt="Screen Shot 2021-05-30 at 4 33 04 PM" src="https://user-images.githubusercontent.com/46773181/120123616-b6a3a380-c164-11eb-945e-415292761ffb.png">
+
+Understanding that Thomas High School falls into the Medium (1000-2000) segment, we would only see change when comparing these two buckets.
+
 
 
 #### 7) How does replacing the ninth-grade scores affect the following: Scores by school type
