@@ -126,3 +126,4 @@ Please see below for the score summary by school type, **after** we addressed th
 Thomas High School is a Charter School, and so we would only expect to see changes to that segment in the dataframes above. However, we see a similar trend to the ones I have discussed prior to this -- the 9th grade class at Thomas High School represents such a small % of the entire charter school segment, that we see no an insignificant to no change after we replaced the Thomas High School 9th Grade scores.
 
 ## Summary
+
