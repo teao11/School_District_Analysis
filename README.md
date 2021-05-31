@@ -61,11 +61,11 @@ In terms of **% passing reading**, replacing the ninth graders' results drops it
 
 Please see below for the reading summary by grade, **before** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="459" alt="Screen Shot 2021-05-30 at 5 41 19 PM" src="https://user-images.githubusercontent.com/46773181/120125572-3eda7680-c16e-11eb-8598-aee3d6738d33.png">
+<img width="461" alt="Screen Shot 2021-05-30 at 5 41 19 PM" src="https://user-images.githubusercontent.com/46773181/120125572-3eda7680-c16e-11eb-8598-aee3d6738d33.png">
 
 Please see below for the reading summary by grade, **after** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="463" alt="Screen Shot 2021-05-30 at 5 42 33 PM" src="https://user-images.githubusercontent.com/46773181/120125620-6b8e8e00-c16e-11eb-9eab-357b7c595f6b.png">
+<img width="461" alt="Screen Shot 2021-05-30 at 5 42 33 PM" src="https://user-images.githubusercontent.com/46773181/120125620-6b8e8e00-c16e-11eb-9eab-357b7c595f6b.png">
 
 As we can see above, removing the 9th grade scores from Thomas High School will only affect this segment . Thomas High School 9th Grade scores have been replaced with NaN, as requested, so there is no mean score for this segment.
 
@@ -75,7 +75,7 @@ Please see below for the math summary by grade, **before** we addressed the issu
 
 Please see below for the math summary by grade, **after** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="460" alt="Screen Shot 2021-05-30 at 5 42 47 PM" src="https://user-images.githubusercontent.com/46773181/120125629-73e6c900-c16e-11eb-8df0-2b8515e0bb1d.png">
+<img width="461" alt="Screen Shot 2021-05-30 at 5 42 47 PM" src="https://user-images.githubusercontent.com/46773181/120125629-73e6c900-c16e-11eb-8df0-2b8515e0bb1d.png">
 
 Similar to the prior paragraph, removing the math scores and segmenting by grade ensures that only the Thomas High School grade scores will be affected! The 9th Grade scores for Thomas High School have been listed as NaN as requested.
 
@@ -85,11 +85,11 @@ Similar to the reading scores, removing the 9th grade scores from Thomas High Sc
 
 Please see below for the score summary by school spending, **before** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="749" alt="Screen Shot 2021-05-30 at 4 23 41 PM" src="https://user-images.githubusercontent.com/46773181/120123391-7bed3b80-c163-11eb-8386-18f5ca3d5d3d.png">
+<img width="750" alt="Screen Shot 2021-05-30 at 5 46 25 PM" src="https://user-images.githubusercontent.com/46773181/120125797-f5d6f200-c16e-11eb-85c3-2902a2ccad5c.png">
 
 Please see below for the score summary by school spending, **after** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="710" alt="Screen Shot 2021-05-30 at 4 24 56 PM" src="https://user-images.githubusercontent.com/46773181/120123411-945d5600-c163-11eb-82ca-9f52caf1d6ff.png">
+<img width="750" alt="Screen Shot 2021-05-30 at 5 45 42 PM" src="https://user-images.githubusercontent.com/46773181/120125770-ea83c680-c16e-11eb-9e9f-6dcbbecc6c87.png">
 
 By looking at the school summary dataframe above, we see that Thomas High School falls into the $630-644 bucket, and changing the scores for the Thomas High School 9th Graders' should only affect this bucket. When comparing the two dataframes, we see that there was very insignificant to no change here.
 
