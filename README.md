@@ -67,12 +67,7 @@ Please see below for the reading summary by grade, **after** we addressed the is
 
 <img width="463" alt="Screen Shot 2021-05-30 at 5 42 33 PM" src="https://user-images.githubusercontent.com/46773181/120125620-6b8e8e00-c16e-11eb-9eab-357b7c595f6b.png">
 
-As we can see above, removing the 9th grade scores from Thomas High School will only affect the Thomas High School segment. Thomas High School 9th Grade scores have been replaced with NaN, as requested! 
-
-Removing the 9th grade population from the denominator and grouping by school name kept the Thomas High School reading grades consistent:
-* 10th Grade: 84.3 to 84.3
-* 11th Grade: 83.6 to 83.6
-* 12th Grade: 83.8 to 83.8
+As we can see above, removing the 9th grade scores from Thomas High School will only affect this segment . Thomas High School 9th Grade scores have been replaced with NaN, as requested, so there is no mean score for this segment.
 
 Please see below for the math summary by grade, **before** we addressed the issues with Thomas High School 9th Grade:
 
@@ -84,10 +79,7 @@ Please see below for the math summary by grade, **after** we addressed the issue
 
 Similar to the prior paragraph, removing the math scores and segmenting by grade ensures that only the Thomas High School grade scores will be affected! The 9th Grade scores for Thomas High School have been listed as NaN as requested.
 
-Removing the 9th grade population from the denominator and grouping by school name has shifted the other Thomas High School grades up very slightly:
-* 10th Grade: 83.1 to 83.1
-* 11th Grade: 83.5 to 83.5
-* 12th Grade: 83.5 to 83.5 
+Similar to the reading scores, removing the 9th grade scores from Thomas High School will only affect this segment. Thomas High School 9th Grade scores have been replaced with NaN, as requested, so there is no mean score for this segment again.
 
 #### 5) How does replacing the ninth-grade scores affect the following: Scores by school spending
 
