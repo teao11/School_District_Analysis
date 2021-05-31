@@ -16,8 +16,6 @@ My report below outlines the results from both my analysis, and compares the res
 
 #### 1) How is the district summary affected
 
-_Please note: We had rounded our % to contain no decimal points in our coursework, and the dataframe columns were slightly different in terms of column order. I have made the challenge dataframes consistent with this format, for ease of comparison._
-
 Please see below for the district summary, **before** we addressed the issues with Thomas High School 9th Grade:
 
 <img width="924" alt="Screen Shot 2021-05-30 at 5 28 41 PM" src="https://user-images.githubusercontent.com/46773181/120125182-7ba56e00-c16c-11eb-91cb-11c31308709b.png">
@@ -27,6 +25,8 @@ Please see below for the district summary, **after** we addressed the issues wit
 <img width="924" alt="Screen Shot 2021-05-30 at 5 26 40 PM" src="https://user-images.githubusercontent.com/46773181/120125130-400aa400-c16c-11eb-9f63-93035a437e3c.png">
 
 As we see above, the overall district was not terribly affected by the data issue. This could be due to the fact that the Thomas High School 9th grade makes up a very small % of the overall district population, and that there were few outliers within the 9th grade population that would cause the average to be shifted.
+
+We do see the total students column reflect the fact that we have removed the 9th Grade class from Thomas High School.
 
 #### 2) How is the school summary affected
 
@@ -120,4 +120,14 @@ Please see below for the score summary by school type, **after** we addressed th
 Thomas High School is a Charter School, and so we would only expect to see changes to that segment in the dataframes above. However, we see a similar trend to the ones I have discussed prior to this -- the 9th grade class at Thomas High School represents such a small % of the entire charter school segment, that we see no an insignificant to no change after we replaced the Thomas High School 9th Grade scores.
 
 ## Summary
+
+In summary, the 9th Grade Class at Thomas High School was ~450 of the 37K students within the district. this meant that biggest changes we saw to the district metrics were at the individual school level, as the 9th Grade Class of Thomas High School made up very small portions of the school size, spending per student and type buckets that we analyzed.
+
+Some changes that we saw to the analysis were:
+* In the scores by grade analysis, thare are now NO mean math scores for the 9th Grade students at Thomas High School
+* Similarly in the scores by grade analysis, thare are now NO mean reading scores for the 9th Grade students at Thomas High School
+* We saw a slight decrease in the average math score for district (79.0 to 78.9)
+* We saw a slight decrease in the % passing math for the district (75.0 to 74.8)
+* The overall passing % dropped slightly (65.2 to 64.9)
+* The overall passing % for Thomas High School dropped slightly (90.9 to 90.6)
 
