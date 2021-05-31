@@ -114,5 +114,12 @@ This can be explained due to the size of the 9th Grade Class at Thomas High Scho
 
 #### 7) How does replacing the ninth-grade scores affect the following: Scores by school type
 
+Please see below for the score summary by school type, **before** we addressed the issues with Thomas High School 9th Grade:
+
+<img width="635" alt="Screen Shot 2021-05-30 at 5 05 54 PM" src="https://user-images.githubusercontent.com/46773181/120124423-4d725f00-c169-11eb-9b2c-4d5d0100993f.png">
+
+Please see below for the score summary by school type, **after** we addressed the issues with Thomas High School 9th Grade:
+
+<img width="635" alt="Screen Shot 2021-05-30 at 5 06 20 PM" src="https://user-images.githubusercontent.com/46773181/120124448-60852f00-c169-11eb-81a4-4bedae6e7d44.png">
 
 ## Summary
