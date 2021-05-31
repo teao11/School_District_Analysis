@@ -28,8 +28,6 @@ Please see below for the district summary, **after** we addressed the issues wit
 
 As we see above, the overall district was not terribly affected by the data issue. This could be due to the fact that the Thomas High School 9th grade makes up a very small % of the overall district population, and that there were few outliers within the 9th grade population that would cause the average to be shifted.
 
-We do see the total students column reflect the fact that we have removed the 9th Grade class from Thomas High School.
-
 #### 2) How is the school summary affected
 
 Please see below for the school summary, **before** we addressed the issues with Thomas High School 9th Grade:
