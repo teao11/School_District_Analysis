@@ -61,11 +61,11 @@ In terms of **% passing reading**, replacing the ninth graders' results drops it
 
 Please see below for the reading summary by grade, **before** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="456" alt="Screen Shot 2021-05-30 at 4 10 01 PM" src="https://user-images.githubusercontent.com/46773181/120123025-7ee72c80-c161-11eb-9a62-49df17cb9186.png">
+<img width="459" alt="Screen Shot 2021-05-30 at 5 41 19 PM" src="https://user-images.githubusercontent.com/46773181/120125572-3eda7680-c16e-11eb-8598-aee3d6738d33.png">
 
 Please see below for the reading summary by grade, **after** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="456" alt="Screen Shot 2021-05-30 at 4 15 04 PM" src="https://user-images.githubusercontent.com/46773181/120123176-3c721f80-c162-11eb-815e-e7ec3322f01c.png">
+<img width="463" alt="Screen Shot 2021-05-30 at 5 42 33 PM" src="https://user-images.githubusercontent.com/46773181/120125620-6b8e8e00-c16e-11eb-9eab-357b7c595f6b.png">
 
 As we can see above, removing the 9th grade scores from Thomas High School will only affect the Thomas High School segment. Thomas High School 9th Grade scores have been replaced with NaN, as requested! 
 
@@ -76,11 +76,11 @@ Removing the 9th grade population from the denominator and grouping by school na
 
 Please see below for the math summary by grade, **before** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="467" alt="Screen Shot 2021-05-30 at 4 11 57 PM" src="https://user-images.githubusercontent.com/46773181/120123092-c372c800-c161-11eb-83af-68586657414f.png">
+<img width="461" alt="Screen Shot 2021-05-30 at 5 41 41 PM" src="https://user-images.githubusercontent.com/46773181/120125586-5580cd80-c16e-11eb-8881-27f76884a3f6.png">
 
 Please see below for the math summary by grade, **after** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="458" alt="Screen Shot 2021-05-30 at 4 15 04 PM" src="https://user-images.githubusercontent.com/46773181/120123306-e6ea4280-c162-11eb-9edf-0c21a30c4968.png">
+<img width="460" alt="Screen Shot 2021-05-30 at 5 42 47 PM" src="https://user-images.githubusercontent.com/46773181/120125629-73e6c900-c16e-11eb-8df0-2b8515e0bb1d.png">
 
 Similar to the prior paragraph, removing the math scores and segmenting by grade ensures that only the Thomas High School grade scores will be affected! The 9th Grade scores for Thomas High School have been listed as NaN as requested.
 
