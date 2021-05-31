@@ -99,11 +99,11 @@ This makes sense, as this bucket also contains 3 other schools that are far larg
 
 Please see below for the score summary by school size, **before** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="677" alt="Screen Shot 2021-05-30 at 4 32 40 PM" src="https://user-images.githubusercontent.com/46773181/120123608-a8ee1e00-c164-11eb-949c-550eb959dac9.png">
+<img width="682" alt="Screen Shot 2021-05-30 at 5 48 50 PM" src="https://user-images.githubusercontent.com/46773181/120125906-52d2a800-c16f-11eb-8c7f-2eb76aa75e94.png">
 
 Please see below for the score summary by school size, **after** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="677" alt="Screen Shot 2021-05-30 at 4 52 58 PM" src="https://user-images.githubusercontent.com/46773181/120124109-801b5800-c167-11eb-81b8-cd3e0951583e.png">
+<img width="682" alt="Screen Shot 2021-05-30 at 5 49 21 PM" src="https://user-images.githubusercontent.com/46773181/120125923-5e25d380-c16f-11eb-8080-2d7962ceb021.png">
 
 Understanding that Thomas High School falls into the Medium (1000-2000) segment, we would only see change when comparing these two buckets. Again, there is very little to no change here.
 
@@ -113,11 +113,11 @@ This can be explained due to the size of the 9th Grade Class at Thomas High Scho
 
 Please see below for the score summary by school type, **before** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="635" alt="Screen Shot 2021-05-30 at 5 05 54 PM" src="https://user-images.githubusercontent.com/46773181/120124423-4d725f00-c169-11eb-9b2c-4d5d0100993f.png">
+<img width="640" alt="Screen Shot 2021-05-30 at 5 50 09 PM" src="https://user-images.githubusercontent.com/46773181/120125945-7b5aa200-c16f-11eb-8653-9cda85ee913c.png">
 
 Please see below for the score summary by school type, **after** we addressed the issues with Thomas High School 9th Grade:
 
-<img width="635" alt="Screen Shot 2021-05-30 at 5 06 20 PM" src="https://user-images.githubusercontent.com/46773181/120124448-60852f00-c169-11eb-81a4-4bedae6e7d44.png">
+<img width="642" alt="Screen Shot 2021-05-30 at 5 49 42 PM" src="https://user-images.githubusercontent.com/46773181/120125935-70077680-c16f-11eb-9edc-f505ca2a4093.png">
 
 Thomas High School is a Charter School, and so we would only expect to see changes to that segment in the dataframes above. However, we see a similar trend to the ones I have discussed prior to this -- the 9th grade class at Thomas High School represents such a small % of the entire charter school segment, that we see no an insignificant to no change after we replaced the Thomas High School 9th Grade scores.
 
